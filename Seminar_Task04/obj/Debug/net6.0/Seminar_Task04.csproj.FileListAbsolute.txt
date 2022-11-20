@@ -1,0 +1,15 @@
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\bin\Debug\net6.0\Seminar_Task04.exe
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\bin\Debug\net6.0\Seminar_Task04.deps.json
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\bin\Debug\net6.0\Seminar_Task04.runtimeconfig.json
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\bin\Debug\net6.0\Seminar_Task04.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\bin\Debug\net6.0\Seminar_Task04.pdb
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.csproj.AssemblyReference.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.AssemblyInfoInputs.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.AssemblyInfo.cs
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.csproj.CoreCompileInputs.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\refint\Seminar_Task04.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.pdb
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\Seminar_Task04.genruntimeconfig.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminar_Task04\obj\Debug\net6.0\ref\Seminar_Task04.dll

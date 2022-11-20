@@ -1,0 +1,15 @@
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\bin\Debug\net6.0\Seminars_HomeWork.exe
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\bin\Debug\net6.0\Seminars_HomeWork.deps.json
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\bin\Debug\net6.0\Seminars_HomeWork.runtimeconfig.json
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\bin\Debug\net6.0\Seminars_HomeWork.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\bin\Debug\net6.0\Seminars_HomeWork.pdb
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.AssemblyInfo.cs
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\refint\Seminars_HomeWork.dll
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.pdb
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\Seminars_HomeWork.genruntimeconfig.cache
+C:\Users\Anatolii\Documents\Учеба\C#\Seminars01\Seminars_HomeWork\obj\Debug\net6.0\ref\Seminars_HomeWork.dll
