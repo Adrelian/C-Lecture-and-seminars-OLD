@@ -26,6 +26,14 @@ Console.WriteLine("Input third number");
 int ThirdNum = Convert.ToInt32(Console.ReadLine());
 
 if (FirNum < SecNum)
+{
+    if (SecNum < ThirdNum)
+        Console.WriteLine($"Max number is {ThirdNum}");
+    else
+        Console.WriteLine($"Max number is {SecNum}");
+}
+else
+Console.WriteLine($"Max number is {FirNum}");
 
 //Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
