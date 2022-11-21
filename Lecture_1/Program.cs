@@ -23,15 +23,17 @@
 
 // Задча 4. Персонализированное приветсвие
 
-Console.Write("Input your name ");
-string name = Console.ReadLine(); // пользовательский ввод
+// Console.Write("Input your name ");
+// string name = Console.ReadLine(); // пользовательский ввод
 
-if(name.ToLower() == "masha")
-{
-    Console.Write("Great. This is Masha");
-}
-else
-{
-    Console.Write("Hello, ");
-    Console.WriteLine(name);
-}
+// if(name.ToLower() == "masha")
+// {
+//     Console.Write("Great. This is Masha");
+// }
+// else
+// {
+//     Console.Write("Hello, ");
+//     Console.WriteLine(name);
+// }
+
+// Задача 5. Перетаскивание гирь
