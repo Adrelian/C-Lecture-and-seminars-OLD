@@ -1,0 +1,15 @@
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\bin\Debug\net6.0\Lecture2_Method.exe
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\bin\Debug\net6.0\Lecture2_Method.deps.json
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\bin\Debug\net6.0\Lecture2_Method.runtimeconfig.json
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\bin\Debug\net6.0\Lecture2_Method.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\bin\Debug\net6.0\Lecture2_Method.pdb
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.csproj.AssemblyReference.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.AssemblyInfoInputs.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.AssemblyInfo.cs
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.csproj.CoreCompileInputs.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\refint\Lecture2_Method.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.pdb
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\Lecture2_Method.genruntimeconfig.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_Method\obj\Debug\net6.0\ref\Lecture2_Method.dll

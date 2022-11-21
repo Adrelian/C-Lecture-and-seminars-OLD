@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Anatolii\\.nuget\\packages\\": {}
+    "C:\\Users\\apolo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anatolii\\Documents\\Учеба\\C#\\Seminars01\\Seminars_HomeWork\\Seminars_HomeWork.csproj",
+      "projectUniqueName": "C:\\Users\\apolo\\OneDrive\\Документы\\Учеба\\C# Lesson 1\\C-homework\\Seminars_HomeWork\\Seminars_HomeWork.csproj",
       "projectName": "Seminars_HomeWork",
-      "projectPath": "C:\\Users\\Anatolii\\Documents\\Учеба\\C#\\Seminars01\\Seminars_HomeWork\\Seminars_HomeWork.csproj",
-      "packagesPath": "C:\\Users\\Anatolii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anatolii\\Documents\\Учеба\\C#\\Seminars01\\Seminars_HomeWork\\obj\\",
+      "projectPath": "C:\\Users\\apolo\\OneDrive\\Документы\\Учеба\\C# Lesson 1\\C-homework\\Seminars_HomeWork\\Seminars_HomeWork.csproj",
+      "packagesPath": "C:\\Users\\apolo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\apolo\\OneDrive\\Документы\\Учеба\\C# Lesson 1\\C-homework\\Seminars_HomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anatolii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\apolo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

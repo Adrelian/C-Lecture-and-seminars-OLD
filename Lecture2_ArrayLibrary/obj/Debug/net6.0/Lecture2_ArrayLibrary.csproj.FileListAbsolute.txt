@@ -1,0 +1,15 @@
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\bin\Debug\net6.0\Lecture2_ArrayLibrary.exe
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\bin\Debug\net6.0\Lecture2_ArrayLibrary.deps.json
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\bin\Debug\net6.0\Lecture2_ArrayLibrary.runtimeconfig.json
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\bin\Debug\net6.0\Lecture2_ArrayLibrary.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\bin\Debug\net6.0\Lecture2_ArrayLibrary.pdb
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.AssemblyInfo.cs
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\refint\Lecture2_ArrayLibrary.dll
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.pdb
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\Lecture2_ArrayLibrary.genruntimeconfig.cache
+C:\Users\apolo\OneDrive\Документы\Учеба\C# Lesson 1\C-homework\Lecture2_ArrayLibrary\obj\Debug\net6.0\ref\Lecture2_ArrayLibrary.dll
