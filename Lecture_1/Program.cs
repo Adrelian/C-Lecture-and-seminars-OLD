@@ -14,7 +14,9 @@
 
 // Задача 3. Деление двух чисел
 
-double numberA = 12;
-double NumberB = 5;
+double numberA = new Random().Next(1,15); // 1 2 3 4 ... 14
+Console.WriteLine(numberA);
+double NumberB = new Random().Next(1,15); // 1 2 3 4 ... 14
+Console.WriteLine(NumberB);
 double result = numberA / NumberB;
 Console.WriteLine(result);
