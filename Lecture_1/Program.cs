@@ -7,7 +7,14 @@
 
 // Задача 2. Сложение двух чисел
 
-int numberA = 1;
-int NumberB = 5;
-int result = numberA + NumberB;
+// int numberA = 1;
+// int NumberB = 5;
+// int result = numberA + NumberB;
+// Console.WriteLine(result);
+
+// Задача 3. Деление двух чисел
+
+double numberA = 12;
+double NumberB = 5;
+double result = numberA / NumberB;
 Console.WriteLine(result);
